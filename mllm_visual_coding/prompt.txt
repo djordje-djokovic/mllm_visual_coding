@@ -1,0 +1,113 @@
+Determine if there is at least one visible hand in the image.
+
+    Categorize your answer into one of the following categories: Yes or No.
+
+    Return your answer in a JSON as follows:
+    "Hand Presence": {
+          "Yes": true or false,
+          "No": true or false
+    },
+
+    Identify if there is any product visible in the image.
+
+    Categorize your answer into one of the following categories: Yes or No.
+
+    Return your answer in a JSON as follows:
+    "Product Presence": {
+          "Yes": true or false,
+          "No": true or false
+    },
+
+    If a hand is present, indicate whether it is touching a product.
+
+    Categorize your answer into one of the following categories: Yes or No.
+
+    Return your answer in a JSON as follows:
+
+      "Hand Touching Product": {
+          "Yes": true or false,
+          "No": true or false
+    },
+
+    Identify the gender of the hand.
+
+    Categorize your answer into one of the following categories: Male, Female, Don’t Know, Not Applicable.
+
+    Return your answer in a JSON as follows:
+        "Hand Gender": {
+          "Male": true or false,
+          "Female": true or false,
+          "Don't Know": true or false,
+          "Not Applicable": true or false
+     },
+
+    Identify the race of the hand.
+
+    Categorize your answer into one of the following categories: White, Black, Other, Not Applicable.
+
+    Return your answer in a JSON as follows:
+        "Hand Race": {
+          "White": true or false,
+          "Black": true or false,
+          "Other": true or false,
+          "Not Applicable": true or false
+    },
+
+    Check if any other human body parts (aside from the hand/arm) are visible.
+    Categorize your answer into one of the following categories: Arms or Hands Only, Other Body Parts Present, Not Applicable.
+
+    Return your answer in a JSON as follows:
+        "Other Body Parts": {
+          "Arms or Hands Only": true or false,
+          "Other Body Parts Present": true or false,
+          "Not Applicable": true or false
+    },
+
+    If there is a hand in the image, indicate whether the hand is portrayed from the perspective of the self or from the perspective of the 'other' (i.e., another person).
+
+    Categorize your answer into one of the following categories: Self-Perspective, Other-Perspective, and Not Applicable.
+
+    Return your answer in a JSON as follows:
+        "Perspective": {
+          "Self-Perspective": true or false,
+          "Other-Perspective": true or false,
+          "Not Applicable": true or false
+    },
+
+    Then, return all your answers together into one JSON as follows. Never include any additional text.
+    {
+        "Hand Presence": {
+          "Yes": true or false,
+          "No": true or false
+        },
+        "Product Presence": {
+          "Yes": true or false,
+          "No": true or false
+        },
+        "Hand Touching Product": {
+          "Yes": true or false,
+          "No": true or false
+        },
+        "Hand Gender": {
+          "Male": true or false,
+          "Female": true or false,
+          "Don't Know": true or false,
+          "Not Applicable": true or false
+        },
+        "Hand Race": {
+          "White": true or false,
+          "Black": true or false,
+          "Other": true or false,
+          "Not Applicable": true or false
+        },
+        "Other Body Parts": {
+          "Arms or Hands Only": true or false,
+          "Other Body Parts Present": true or false,
+          "Not Applicable": true or false
+        },
+        "Perspective": {
+          "Self Perspective": true or false,
+          "Other Perspective": true or false,
+          "Not Applicable": true or false
+        }
+    }

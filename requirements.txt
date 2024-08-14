@@ -1,0 +1,4 @@
+requests==2.25.1
+openai==1.40.6
+tqdm==4.56.0
+python-dotenv==0.19.2
