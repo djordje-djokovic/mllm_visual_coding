@@ -1,0 +1,458 @@
+[
+    {
+        "Index": 0,
+        "Image": "img\\img_1.png",
+        "Hand Presence": {
+            "Yes": true,
+            "No": false
+        },
+        "Product Presence": {
+            "Yes": true,
+            "No": false
+        },
+        "Hand Touching Product": {
+            "Yes": true,
+            "No": false
+        },
+        "Hand Gender": {
+            "Male": false,
+            "Female": false,
+            "Don't Know": true,
+            "Not Applicable": false
+        },
+        "Hand Race": {
+            "White": false,
+            "Black": false,
+            "Other": false,
+            "Not Applicable": true
+        },
+        "Other Body Parts": {
+            "Arms or Hands Only": true,
+            "Other Body Parts Present": false,
+            "Not Applicable": false
+        },
+        "Perspective": {
+            "Self Perspective": false,
+            "Other Perspective": true,
+            "Not Applicable": false
+        }
+    },
+    {
+        "Index": 1,
+        "Image": "img\\img_10.png",
+        "Hand Presence": {
+            "Yes": true,
+            "No": false
+        },
+        "Product Presence": {
+            "Yes": true,
+            "No": false
+        },
+        "Hand Touching Product": {
+            "Yes": true,
+            "No": false
+        },
+        "Hand Gender": {
+            "Male": false,
+            "Female": false,
+            "Don't Know": true,
+            "Not Applicable": false
+        },
+        "Hand Race": {
+            "White": true,
+            "Black": false,
+            "Other": false,
+            "Not Applicable": false
+        },
+        "Other Body Parts": {
+            "Arms or Hands Only": true,
+            "Other Body Parts Present": false,
+            "Not Applicable": false
+        },
+        "Perspective": {
+            "Self Perspective": false,
+            "Other Perspective": true,
+            "Not Applicable": false
+        }
+    },
+    {
+        "Index": 2,
+        "Image": "img\\img_11.png",
+        "Hand Presence": {
+            "Yes": true,
+            "No": false
+        },
+        "Product Presence": {
+            "Yes": true,
+            "No": false
+        },
+        "Hand Touching Product": {
+            "Yes": true,
+            "No": false
+        },
+        "Hand Gender": {
+            "Male": false,
+            "Female": true,
+            "Don't Know": false,
+            "Not Applicable": false
+        },
+        "Hand Race": {
+            "White": true,
+            "Black": false,
+            "Other": false,
+            "Not Applicable": false
+        },
+        "Other Body Parts": {
+            "Arms or Hands Only": false,
+            "Other Body Parts Present": true,
+            "Not Applicable": false
+        },
+        "Perspective": {
+            "Self Perspective": false,
+            "Other Perspective": true,
+            "Not Applicable": false
+        }
+    },
+    {
+        "Index": 3,
+        "Image": "img\\img_12.png",
+        "Hand Presence": {
+            "Yes": false,
+            "No": true
+        },
+        "Product Presence": {
+            "Yes": true,
+            "No": false
+        },
+        "Hand Touching Product": {
+            "Yes": false,
+            "No": true
+        },
+        "Hand Gender": {
+            "Male": false,
+            "Female": false,
+            "Don't Know": false,
+            "Not Applicable": true
+        },
+        "Hand Race": {
+            "White": false,
+            "Black": false,
+            "Other": false,
+            "Not Applicable": true
+        },
+        "Other Body Parts": {
+            "Arms or Hands Only": false,
+            "Other Body Parts Present": false,
+            "Not Applicable": true
+        },
+        "Perspective": {
+            "Self Perspective": false,
+            "Other Perspective": false,
+            "Not Applicable": true
+        }
+    },
+    {
+        "Index": 4,
+        "Image": "img\\img_2.png",
+        "Hand Presence": {
+            "Yes": false,
+            "No": true
+        },
+        "Product Presence": {
+            "Yes": true,
+            "No": false
+        },
+        "Hand Touching Product": {
+            "Yes": false,
+            "No": true
+        },
+        "Hand Gender": {
+            "Male": false,
+            "Female": false,
+            "Don't Know": false,
+            "Not Applicable": true
+        },
+        "Hand Race": {
+            "White": false,
+            "Black": false,
+            "Other": false,
+            "Not Applicable": true
+        },
+        "Other Body Parts": {
+            "Arms or Hands Only": false,
+            "Other Body Parts Present": false,
+            "Not Applicable": true
+        },
+        "Perspective": {
+            "Self Perspective": false,
+            "Other Perspective": false,
+            "Not Applicable": true
+        }
+    },
+    {
+        "Index": 5,
+        "Image": "img\\img_3.png",
+        "Hand Presence": {
+            "Yes": true,
+            "No": false
+        },
+        "Product Presence": {
+            "Yes": true,
+            "No": false
+        },
+        "Hand Touching Product": {
+            "Yes": true,
+            "No": false
+        },
+        "Hand Gender": {
+            "Male": false,
+            "Female": true,
+            "Don't Know": false,
+            "Not Applicable": false
+        },
+        "Hand Race": {
+            "White": true,
+            "Black": false,
+            "Other": false,
+            "Not Applicable": false
+        },
+        "Other Body Parts": {
+            "Arms or Hands Only": false,
+            "Other Body Parts Present": true,
+            "Not Applicable": false
+        },
+        "Perspective": {
+            "Self Perspective": false,
+            "Other Perspective": true,
+            "Not Applicable": false
+        }
+    },
+    {
+        "Index": 6,
+        "Image": "img\\img_4.png",
+        "Hand Presence": {
+            "Yes": true,
+            "No": false
+        },
+        "Product Presence": {
+            "Yes": false,
+            "No": true
+        },
+        "Hand Touching Product": {
+            "Yes": false,
+            "No": true
+        },
+        "Hand Gender": {
+            "Male": false,
+            "Female": true,
+            "Don't Know": false,
+            "Not Applicable": false
+        },
+        "Hand Race": {
+            "White": false,
+            "Black": false,
+            "Other": true,
+            "Not Applicable": false
+        },
+        "Other Body Parts": {
+            "Arms or Hands Only": false,
+            "Other Body Parts Present": true,
+            "Not Applicable": false
+        },
+        "Perspective": {
+            "Self Perspective": false,
+            "Other Perspective": true,
+            "Not Applicable": false
+        }
+    },
+    {
+        "Index": 7,
+        "Image": "img\\img_5.png",
+        "Hand Presence": {
+            "Yes": true,
+            "No": false
+        },
+        "Product Presence": {
+            "Yes": true,
+            "No": false
+        },
+        "Hand Touching Product": {
+            "Yes": true,
+            "No": false
+        },
+        "Hand Gender": {
+            "Male": false,
+            "Female": true,
+            "Don't Know": false,
+            "Not Applicable": false
+        },
+        "Hand Race": {
+            "White": true,
+            "Black": false,
+            "Other": false,
+            "Not Applicable": false
+        },
+        "Other Body Parts": {
+            "Arms or Hands Only": false,
+            "Other Body Parts Present": true,
+            "Not Applicable": false
+        },
+        "Perspective": {
+            "Self Perspective": false,
+            "Other Perspective": true,
+            "Not Applicable": false
+        }
+    },
+    {
+        "Index": 8,
+        "Image": "img\\img_6.png",
+        "Hand Presence": {
+            "Yes": true,
+            "No": false
+        },
+        "Product Presence": {
+            "Yes": false,
+            "No": true
+        },
+        "Hand Touching Product": {
+            "Yes": false,
+            "No": true
+        },
+        "Hand Gender": {
+            "Male": false,
+            "Female": true,
+            "Don't Know": false,
+            "Not Applicable": false
+        },
+        "Hand Race": {
+            "White": true,
+            "Black": false,
+            "Other": false,
+            "Not Applicable": false
+        },
+        "Other Body Parts": {
+            "Arms or Hands Only": false,
+            "Other Body Parts Present": true,
+            "Not Applicable": false
+        },
+        "Perspective": {
+            "Self Perspective": false,
+            "Other Perspective": true,
+            "Not Applicable": false
+        }
+    },
+    {
+        "Index": 9,
+        "Image": "img\\img_7.png",
+        "Hand Presence": {
+            "Yes": true,
+            "No": false
+        },
+        "Product Presence": {
+            "Yes": true,
+            "No": false
+        },
+        "Hand Touching Product": {
+            "Yes": true,
+            "No": false
+        },
+        "Hand Gender": {
+            "Male": false,
+            "Female": false,
+            "Don't Know": true,
+            "Not Applicable": false
+        },
+        "Hand Race": {
+            "White": false,
+            "Black": false,
+            "Other": false,
+            "Not Applicable": true
+        },
+        "Other Body Parts": {
+            "Arms or Hands Only": true,
+            "Other Body Parts Present": false,
+            "Not Applicable": false
+        },
+        "Perspective": {
+            "Self Perspective": false,
+            "Other Perspective": true,
+            "Not Applicable": false
+        }
+    },
+    {
+        "Index": 10,
+        "Image": "img\\img_8.png",
+        "Hand Presence": {
+            "Yes": true,
+            "No": false
+        },
+        "Product Presence": {
+            "Yes": true,
+            "No": false
+        },
+        "Hand Touching Product": {
+            "Yes": true,
+            "No": false
+        },
+        "Hand Gender": {
+            "Male": false,
+            "Female": true,
+            "Don't Know": false,
+            "Not Applicable": false
+        },
+        "Hand Race": {
+            "White": true,
+            "Black": false,
+            "Other": false,
+            "Not Applicable": false
+        },
+        "Other Body Parts": {
+            "Arms or Hands Only": false,
+            "Other Body Parts Present": true,
+            "Not Applicable": false
+        },
+        "Perspective": {
+            "Self Perspective": false,
+            "Other Perspective": true,
+            "Not Applicable": false
+        }
+    },
+    {
+        "Index": 11,
+        "Image": "img\\img_9.png",
+        "Hand Presence": {
+            "Yes": false,
+            "No": true
+        },
+        "Product Presence": {
+            "Yes": true,
+            "No": false
+        },
+        "Hand Touching Product": {
+            "Yes": false,
+            "No": true
+        },
+        "Hand Gender": {
+            "Male": false,
+            "Female": false,
+            "Don't Know": false,
+            "Not Applicable": true
+        },
+        "Hand Race": {
+            "White": false,
+            "Black": false,
+            "Other": false,
+            "Not Applicable": true
+        },
+        "Other Body Parts": {
+            "Arms or Hands Only": false,
+            "Other Body Parts Present": false,
+            "Not Applicable": true
+        },
+        "Perspective": {
+            "Self Perspective": false,
+            "Other Perspective": false,
+            "Not Applicable": true
+        }
+    }
+]
