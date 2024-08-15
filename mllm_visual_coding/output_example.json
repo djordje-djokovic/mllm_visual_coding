@@ -14,18 +14,6 @@
             "Yes": true,
             "No": false
         },
-        "Hand Gender": {
-            "Male": false,
-            "Female": false,
-            "Don't Know": true,
-            "Not Applicable": false
-        },
-        "Hand Race": {
-            "White": false,
-            "Black": false,
-            "Other": false,
-            "Not Applicable": true
-        },
         "Other Body Parts": {
             "Arms or Hands Only": true,
             "Other Body Parts Present": false,
@@ -51,18 +39,6 @@
         "Hand Touching Product": {
             "Yes": true,
             "No": false
-        },
-        "Hand Gender": {
-            "Male": false,
-            "Female": false,
-            "Don't Know": true,
-            "Not Applicable": false
-        },
-        "Hand Race": {
-            "White": true,
-            "Black": false,
-            "Other": false,
-            "Not Applicable": false
         },
         "Other Body Parts": {
             "Arms or Hands Only": true,
@@ -90,18 +66,6 @@
             "Yes": true,
             "No": false
         },
-        "Hand Gender": {
-            "Male": false,
-            "Female": true,
-            "Don't Know": false,
-            "Not Applicable": false
-        },
-        "Hand Race": {
-            "White": true,
-            "Black": false,
-            "Other": false,
-            "Not Applicable": false
-        },
         "Other Body Parts": {
             "Arms or Hands Only": false,
             "Other Body Parts Present": true,
@@ -127,18 +91,6 @@
         "Hand Touching Product": {
             "Yes": false,
             "No": true
-        },
-        "Hand Gender": {
-            "Male": false,
-            "Female": false,
-            "Don't Know": false,
-            "Not Applicable": true
-        },
-        "Hand Race": {
-            "White": false,
-            "Black": false,
-            "Other": false,
-            "Not Applicable": true
         },
         "Other Body Parts": {
             "Arms or Hands Only": false,
@@ -166,18 +118,6 @@
             "Yes": false,
             "No": true
         },
-        "Hand Gender": {
-            "Male": false,
-            "Female": false,
-            "Don't Know": false,
-            "Not Applicable": true
-        },
-        "Hand Race": {
-            "White": false,
-            "Black": false,
-            "Other": false,
-            "Not Applicable": true
-        },
         "Other Body Parts": {
             "Arms or Hands Only": false,
             "Other Body Parts Present": false,
@@ -203,18 +143,6 @@
         "Hand Touching Product": {
             "Yes": true,
             "No": false
-        },
-        "Hand Gender": {
-            "Male": false,
-            "Female": true,
-            "Don't Know": false,
-            "Not Applicable": false
-        },
-        "Hand Race": {
-            "White": true,
-            "Black": false,
-            "Other": false,
-            "Not Applicable": false
         },
         "Other Body Parts": {
             "Arms or Hands Only": false,
@@ -242,18 +170,6 @@
             "Yes": false,
             "No": true
         },
-        "Hand Gender": {
-            "Male": false,
-            "Female": true,
-            "Don't Know": false,
-            "Not Applicable": false
-        },
-        "Hand Race": {
-            "White": false,
-            "Black": false,
-            "Other": true,
-            "Not Applicable": false
-        },
         "Other Body Parts": {
             "Arms or Hands Only": false,
             "Other Body Parts Present": true,
@@ -279,18 +195,6 @@
         "Hand Touching Product": {
             "Yes": true,
             "No": false
-        },
-        "Hand Gender": {
-            "Male": false,
-            "Female": true,
-            "Don't Know": false,
-            "Not Applicable": false
-        },
-        "Hand Race": {
-            "White": true,
-            "Black": false,
-            "Other": false,
-            "Not Applicable": false
         },
         "Other Body Parts": {
             "Arms or Hands Only": false,
@@ -318,18 +222,6 @@
             "Yes": false,
             "No": true
         },
-        "Hand Gender": {
-            "Male": false,
-            "Female": true,
-            "Don't Know": false,
-            "Not Applicable": false
-        },
-        "Hand Race": {
-            "White": true,
-            "Black": false,
-            "Other": false,
-            "Not Applicable": false
-        },
         "Other Body Parts": {
             "Arms or Hands Only": false,
             "Other Body Parts Present": true,
@@ -355,18 +247,6 @@
         "Hand Touching Product": {
             "Yes": true,
             "No": false
-        },
-        "Hand Gender": {
-            "Male": false,
-            "Female": false,
-            "Don't Know": true,
-            "Not Applicable": false
-        },
-        "Hand Race": {
-            "White": false,
-            "Black": false,
-            "Other": false,
-            "Not Applicable": true
         },
         "Other Body Parts": {
             "Arms or Hands Only": true,
@@ -394,18 +274,6 @@
             "Yes": true,
             "No": false
         },
-        "Hand Gender": {
-            "Male": false,
-            "Female": true,
-            "Don't Know": false,
-            "Not Applicable": false
-        },
-        "Hand Race": {
-            "White": true,
-            "Black": false,
-            "Other": false,
-            "Not Applicable": false
-        },
         "Other Body Parts": {
             "Arms or Hands Only": false,
             "Other Body Parts Present": true,
@@ -431,18 +299,6 @@
         "Hand Touching Product": {
             "Yes": false,
             "No": true
-        },
-        "Hand Gender": {
-            "Male": false,
-            "Female": false,
-            "Don't Know": false,
-            "Not Applicable": true
-        },
-        "Hand Race": {
-            "White": false,
-            "Black": false,
-            "Other": false,
-            "Not Applicable": true
         },
         "Other Body Parts": {
             "Arms or Hands Only": false,

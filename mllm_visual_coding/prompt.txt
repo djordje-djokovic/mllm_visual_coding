@@ -29,30 +29,6 @@ Determine if there is at least one visible hand in the image.
           "No": true or false
     },
 
-    Identify the gender of the hand.
-
-    Categorize your answer into one of the following categories: Male, Female, Don’t Know, Not Applicable.
-
-    Return your answer in a JSON as follows:
-        "Hand Gender": {
-          "Male": true or false,
-          "Female": true or false,
-          "Don't Know": true or false,
-          "Not Applicable": true or false
-     },
-
-    Identify the race of the hand.
-
-    Categorize your answer into one of the following categories: White, Black, Other, Not Applicable.
-
-    Return your answer in a JSON as follows:
-        "Hand Race": {
-          "White": true or false,
-          "Black": true or false,
-          "Other": true or false,
-          "Not Applicable": true or false
-    },
-
     Check if any other human body parts (aside from the hand/arm) are visible.
     Categorize your answer into one of the following categories: Arms or Hands Only, Other Body Parts Present, Not Applicable.
 
@@ -87,18 +63,6 @@ Determine if there is at least one visible hand in the image.
         "Hand Touching Product": {
           "Yes": true or false,
           "No": true or false
-        },
-        "Hand Gender": {
-          "Male": true or false,
-          "Female": true or false,
-          "Don't Know": true or false,
-          "Not Applicable": true or false
-        },
-        "Hand Race": {
-          "White": true or false,
-          "Black": true or false,
-          "Other": true or false,
-          "Not Applicable": true or false
         },
         "Other Body Parts": {
           "Arms or Hands Only": true or false,
