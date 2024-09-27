@@ -3,6 +3,8 @@
 
 Images and videos provide information that text alone often misses, presenting both opportunities for richer analysis and challenges in scaling and integrating these insights for social scientists. Traditional visual coding is labor-intensive, requiring trained coders to analyze data manually. This study investigates the potential of multimodal large language models (MLLMs), specifically ChatGPT-4o, released in May 2024, for handling complex visual coding tasks in social sciences. 
 
+https://doi.org/10.24433/CO.2420466.v1
+
 ## Installation
 
 To get started with the project, first, navigate to the `mllm_visual_coding` directory and install the required dependencies using `pip`. You can do this by following these steps:
